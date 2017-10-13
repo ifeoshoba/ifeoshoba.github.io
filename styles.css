@@ -1,0 +1,8 @@
+
+body {color: red}
+.jumbotron {height:500px}
+  .jumbotron {background-image:url(iCare5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {font-family: 'Indie Flower', cursive;}

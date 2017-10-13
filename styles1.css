@@ -1,0 +1,9 @@
+.jumbotron {height: 500px}
+.jumbotron {
+  background-image:url(iCare2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {color: red}
+h1 {font-family: 'Indie Flower', cursive;}
+h2  {color: red}

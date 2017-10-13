@@ -1,0 +1,10 @@
+.jumbotron {height: 700px}
+.jumbotron {
+  background-image:url(iCare8.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+body {color: red} table {
+border-style: solid;
+}
+h1 {font-family: 'Indie Flower', cursive;}
